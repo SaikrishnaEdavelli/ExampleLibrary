@@ -2,7 +2,6 @@ package com.example.blinklibrary
 
 import android.content.Context
 import android.widget.TextView
-import org.w3c.dom.Text
 
 
 class CustomText {
